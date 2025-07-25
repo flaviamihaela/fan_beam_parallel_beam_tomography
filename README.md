@@ -21,12 +21,12 @@ This project demonstrates the simulation and reconstruction of tomographic image
 - **MATLAB** (R2020b and later)
 - Image Processing Toolbox (for `fanbeam`, `iradon`, etc.)
 
-## How to Run
+## Run
 1. Open `Coursework.m` in MATLAB.
 2. Ensure the Image Processing Toolbox is installed.
 3. Click **Run** or type `Coursework` in the MATLAB command window.
 
-## Usage & Parameter Tuning
+## Usage (Parameter Tuning)
 You can experiment with the following parameters in the script:
 - **Phantom Size and Shape:**
   - Change the size of the phantom or the properties of the circles (center, radius, intensity) in the first section.
